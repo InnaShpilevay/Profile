@@ -1,0 +1,25 @@
+body {
+    background-color: wheat;
+ }
+.indet {
+    margin-top: 30px; 
+    margin-bottom: 30px; 
+}
+.display {
+    display: flex;
+    justify-content: center;
+}
+.person {
+    max-width: 1024px;  
+    display: grid; 
+}
+.first {
+    margin: 0px 15px 30px 15px;
+}
+.persons__intinden_color {
+    padding: 20px 20px 20px 20px; 
+    background-color: white;
+}
+.persons {
+    margin-top: 3px;
+}
